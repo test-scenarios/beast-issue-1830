@@ -1,10 +1,10 @@
-# beast-softphone-problem
+# Websocket Misunderstanding
 
 ## Intention
 
 To recreate the problem reported here:
 
-https://github.com/boostorg/beast/issues/1798
+https://github.com/boostorg/beast/issues/1830
 
 ## Required toolchain
 
